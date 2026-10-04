@@ -88,9 +88,6 @@ The Unit Sold Report focuses on sales volume using:
 
 ```text
 powerbi-sales-profit-unit-dashboard/
-├── README.md
-├── LICENSE
-│
 ├── PowerBI/
 │   └── PowerBI_Dashboard_USP.pbix
 │
@@ -100,6 +97,9 @@ powerbi-sales-profit-unit-dashboard/
     ├── 03_Profit_Report.png
     ├── 04_Unit_Sold_Report.png
     └── 05_Slicers.png
+|
+└── README.md
+
 
 
 
