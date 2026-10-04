@@ -67,21 +67,39 @@ The Unit Sold Report focuses on sales volume using:
 - Date Hierarchy
 - Business Intelligence
 
+  ## Dashboard Preview
+
+### INDEX
+![INDEX](Screenshots/01_Index.png)
+
+### Sales Report
+![Sales Report](Screenshots/02_Sales_Report.png)
+
+### Profit Report
+![Profit Report](Screenshots/03_Profit_Report.png)
+
+### Unit Sold Report
+![Unit Sold Report](Screenshots/04_Unit_Sold_Report.png)
+
+### Slicers & Filters
+![Slicers](Screenshots/05_Slicers.png)
+
 ## Project Structure
 
 ```text
-PowerBI-Sales-Profit-Unit-Dashboard/
-│
+powerbi-sales-profit-unit-dashboard/
 ├── README.md
 ├── LICENSE
 │
 ├── PowerBI/
-│   └── PowerBI_Sales_Profit_UnitSold_Dashboard.pbix
+│   └── PowerBI_Dashboard_USP.pbix
 │
 └── Screenshots/
     ├── 01_Index.png
     ├── 02_Sales_Report.png
     ├── 03_Profit_Report.png
-    └── 04_Unit_Sold_Report.png
+    ├── 04_Unit_Sold_Report.png
+    └── 05_Slicers.png
+
 
 
